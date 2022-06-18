@@ -7,6 +7,7 @@ a = sys.argv[1:]
 
 
 
+
 #print(a)
 a = "".join(map(str,a))
 i = 0
