@@ -65,6 +65,6 @@ while i in range(len(a)):
         if len(x) == 2:
             x.reverse()
 #        print(x,y,i)
-#print(x[0])
+print(x[0])
 #console.alert(x[0])
-print(x[0], file = sys.stdout)
+#print(x[0], file = sys.stdout)
