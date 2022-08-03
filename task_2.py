@@ -46,7 +46,6 @@ while i in range(len(a)):
     while len(y)!=0:
 #        print(x,y)
 
-        
         ay = float(x.pop(0))
         ax = float(x.pop(0))       
         operand = y.pop(0)

@@ -29,10 +29,10 @@ if os.name == 'nt':
             continue
         gg ="".join((gg,x)) 
     a = z
+
 #print(a)
 #sys.exit(0)
 for x in a:
-  
 
     if x == '':
         print("OK")
