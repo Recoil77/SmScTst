@@ -5,11 +5,9 @@ import sys
 
 import os
 
-
 a = sys.argv[1:]
 
 if os.name == 'nt':
-
 
     #print(a)
     a = "".join(map(str,a))
