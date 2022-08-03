@@ -33,8 +33,7 @@ if os.name == 'nt':
 #sys.exit(0)
 for x in a:
   
-#    print(x,end=" ")
-#    x=x.strip("'")
+
     if x == '':
         print("OK")
         continue;
